@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<LOG_ROOT>
+	<PROJECT NAME="CPU_RISC_ComputerArchitectureSharif">
+		<CBX_INST_ENTRY INSTANCE_NAME="|CPU_RISC_ComputerArchitectureSharif|memory:inst|BUSMUX:mux10|lpm_mux:$00000" CBX_FILE_NAME="mux_l0d.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|CPU_RISC_ComputerArchitectureSharif|memory:inst|BUSMUX:mux9|lpm_mux:$00000" CBX_FILE_NAME="mux_l0d.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|CPU_RISC_ComputerArchitectureSharif|memory:inst|MainMemory:inst3|altsyncram:altsyncram_component" CBX_FILE_NAME="altsyncram_l4f1.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|CPU_RISC_ComputerArchitectureSharif|memory:inst|BUSMUX:mux11|lpm_mux:$00000" CBX_FILE_NAME="mux_l0d.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|CPU_RISC_ComputerArchitectureSharif|memory:inst|BUSMUX:mux|lpm_mux:$00000" CBX_FILE_NAME="mux_l0d.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|CPU_RISC_ComputerArchitectureSharif|memory:inst|MainMemory:inst2|altsyncram:altsyncram_component" CBX_FILE_NAME="altsyncram_l4f1.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|CPU_RISC_ComputerArchitectureSharif|memory:inst|MainMemory:inst4|altsyncram:altsyncram_component" CBX_FILE_NAME="altsyncram_l4f1.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|CPU_RISC_ComputerArchitectureSharif|memory:inst|lpm_add_sub0:inst6|lpm_add_sub:LPM_ADD_SUB_component" CBX_FILE_NAME="add_sub_p1i.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|CPU_RISC_ComputerArchitectureSharif|memory:inst|MainMemory:inst1|altsyncram:altsyncram_component" CBX_FILE_NAME="altsyncram_l4f1.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|CPU_RISC_ComputerArchitectureSharif|memory:inst|lpm_decode0:inst7|lpm_decode:LPM_DECODE_component" CBX_FILE_NAME="decode_3ff.tdf"/>
+	</PROJECT>
+</LOG_ROOT>
